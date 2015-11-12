@@ -1,5 +1,5 @@
 # swift-open-project
-这里汇集了目前为止最为流行的Swift开源项目，选取SwiftGuide中的开源开源部分，这里将每周对项目进行总结，如果大家有推荐的可以联系thinkloki@gmail.com,或者issues，欢迎Star、Fork。感谢[SwiftGuide](https://github.com/ipader/SwiftGuide)。
+这里汇集了目前为止最为流行的Swift开源项目，选取SwiftGuide中的开源部分，这里将每周对项目进行总结，如果大家有推荐的可以联系thinkloki@gmail.com,或者issues，欢迎Star、Fork。感谢[SwiftGuide](https://github.com/ipader/SwiftGuide)。
 
 ### <a id="open_api"></a>1. 实用类库
 
