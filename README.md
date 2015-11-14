@@ -20,6 +20,7 @@ of iOS and OSX libraries）](http://www.swifttoolbox.io/) (By [Adam Leonard](htt
 	* [ExSwift](https://github.com/pNre/ExSwift)：实用类扩展库。另一个 Lo-Dash 或 underscore 的 Swift 版本实现，相对于 Dollar.swift，此版本有更完整的 API 实现。包括了对 Array, Int, String, Float, Range, Dictionary, NSArray 的扩展及其它实用方法。完全遵循面向对象的扩展原则。
 	* [lingoer/SwiftyJSON](https://github.com/lingoer/SwiftyJSON):这是解析 JSON 字符串封装类。实现功能与 Javascript中 的 JSON.parse 相近，使用方便。By [@lingoer](http://weibo.com/u/1671421905)
 	* [SwiftyJSON/Alamofire-SwiftyJSON](https://github.com/SwiftyJSON/Alamofire-SwiftyJSON) ：简单地整合 Alamofire 和 SwiftyJSON 后，远程 JSON 使用方便了。
+	* [swift-serialize](https://github.com/sagesse-cn/swift-serialize)swift object serialize/deserialize of json json序列化跟反序列化
 	* [matthewcheok/JSONCodable](https://github.com/matthewcheok/JSONCodable)：基于 Swift 2.0 新特性（Protocol Extensions and Error Handling）的JSON 解析类。
 	* [typelift/Basis](https://github.com/typelift/Basis)：这个实用类库支持范围很宽范，封装主要以简化及方便调用系统API为主，使程序代码看上去更优雅。遗憾地是，目前作者并没有提供 API 文档或示例代码，对于初学者使用会额外带来一点点学习成本。
 	* [owensd/json-swift](https://github.com/owensd/json-swift)：功能与 Swifty 几乎一致，使用上要更方便。
