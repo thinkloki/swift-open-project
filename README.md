@@ -1,5 +1,5 @@
 # swift-open-project
-这里汇集了目前为止最为流行的Swift开源项目，选取SwiftGuide中的开源部分，这里将每周对项目进行总结，如果大家有推荐的可以联系thinkloki@gmail.com,或者issues，欢迎Star、Fork。感谢[SwiftGuide](https://github.com/ipader/SwiftGuide)。
+这里汇集了目前为止最为流行的Swift开源项目，选取SwiftGuide中的开源部分。感谢[SwiftGuide](https://github.com/ipader/SwiftGuide)。
 
 ## 目录
 * [工具](#tools)
@@ -110,8 +110,8 @@
 
 ### <a id="storage"></a>存储
 
-	|	项目 | 开发者 | 备注|
-	| ------------- |-------------| -----------|
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------|
 [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData)|[Alecrim](https://github.com/Alecrim)|更容易地访问 CoreData 对象封装类库
 [SQLite.swift](https://github.com/stephencelis/SQLite.swift)|[Stephen Celis](http://stephencelis.com)|简单、轻量，使用上最 SQL 的 SQLite 封装库
 [Realm](https://github.com/realm/realm-cocoa)|[Realm](http://realm.io)|志向代替 Core Data 和 SQLite 的移动数据库
@@ -127,8 +127,8 @@
 
 ### <a id="network"></a>网络
 
-	项目 | 开发者 | 备注
------------- | ------------- | -------------
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------|
 [Alamofire](https://github.com/Alamofire/Alamofire) |[Mattt Thompson](https://github.com/mattt)|著名的 AFNetworking 络基础库 Swift 语言版 [📝](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
 [AlamofireImage](https://github.com/Alamofire/AlamofireImage)|[Christian Noon](https://github.com/cnoon)|基于 Alamofire 的网络图片组件库
 [Networking](https://github.com/3lvis/Networking)|[Elvis Nuñez](https://github.com/3lvis)|使用简单、功能惊喜的网络封装库
@@ -148,8 +148,8 @@
 
 ### <a id="pictures"></a>图片
 
-	项目 | 开发者 | 备注
------------- | ------------- | ------------- 
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------| 
 [ImageScout](https://github.com/kaishin/ImageScout) |[Reda Lemeden](http://redalemeden.com)|最小网络代价获得图片大小及类型
 [DominantColor](https://github.com/indragiek/DominantColor)|[Indragie Karunaratne](http://indragie.com)|提取图片主色示例项目
 [BCColor](https://github.com/boycechang/BCColor)|[@Boyce_Chang](http://weibo.com/u/1897577113)|开源的轻量而强大的颜色处理库
@@ -177,8 +177,8 @@
 
 ### <a id="framework"></a>框架
 
-	项目 | 开发者 | 备注
------------- | ------------- | -------------
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------|
 [PromiseKit](https://github.com/mxcl/PromiseKit)|[Max Howell](https://github.com/mxcl) |Swift 化的 Promise 类库
 [then](https://github.com/s4cha/then)|[S4cha](https://github.com/s4cha)|极为简洁的 Promise 轻量实现
 [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift)|[BoltsFramework](https://github.com/BoltsFramework)|任务管理 futures/promises 异步实现
@@ -254,8 +254,8 @@
 
 ### <a id="interfaces"></a>界面
 
-	|	项目 | 开发者 | 备注|
-	| ------------- |-------------| -----------|
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------|
 [Spring](https://github.com/MengTo/Spring)|[Meng To](https://github.com/MengTo)| 提供动画调试功能的强大动画的 API 库
 [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation)|[ReactiveCocoa](https://github.com/ReactiveCocoa/)|知名ReactiveAnimation 的 Swift 版子项目
 [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit)|[Draveness](https://github.com/Draveness)|高可读、链式代码风格动画框架库。
@@ -401,8 +401,8 @@
 
 ### <a id="demo"></a>示例
 
-	|	项目 | 开发者 | 备注|
-	| ------------- |-------------| -----------|
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------|
 [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)|[Lex Tang](http://weibo.com/lexrus)|特赞的文字飘入飘出效果
 [TextKitAndAnimationEffect](https://github.com/morpheus1984/TextKitAndAnimationEffect)|[@我在罪恶坑的日子](http://weibo.com/u/1660258615)|文字下坠动画变化效果实现及示例（[开发过程详解](http://www.ismash.cn/post/ru-he-shi-xian-zi-ji-mei-shi-xian-guo-de-xu-qiu-zhi-wen-ben-dong-hua-pian)）
 [AEXML](https://github.com/tadija/AEXML)|[Marko Tadić](https://github.com/tadija)|简单又易于的 XML 解析类及示例
@@ -446,8 +446,8 @@
 
 ### <a id="projects"></a>应用
 
-	|	项目 | 开发者 | 备注|
-	| ------------- |-------------| -----------|
+|	项目 | 开发者 | 备注|
+| ------------- |-------------| -----------|
 [edhita](https://github.com/tnantoka/edhita)|[Tatsuya Tobioka](http://blog.tnantoka.com/)|支持 Markdown, HTML 预览的文本编辑器
 [Markoff](https://github.com/thoughtbot/Markoff)|[thoughtbot](https://github.com/thoughtbot)|运行于 OS X 基于 cmark 轻量级 Markdown 预览 [🔗](https://robots.thoughtbot.com/markoff-free-markdown-previewer)
 [WWDC](https://github.com/insidegui/WWDC)|[Guilherme Rambo](https://github.com/insidegui)| WWDC 2015 [应用下载](https://github.com/insidegui/WWDC/blob/master/Releases/WWDC_latest.zip?raw=true)
