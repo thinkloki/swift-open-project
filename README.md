@@ -173,7 +173,7 @@
 [sweetcorn](https://github.com/FlexMonkey/sweetcorn)|[simon gladman](https://github.com/FlexMonkey)|UI 配置生成图像滤镜代码
 [SwiftSVG](https://github.com/mchoe/SwiftSVG)|[Michael Choe](https://github.com/mchoe)|支持多种接口绘制 SVG 类库
 [SwiftOCR](https://github.com/garnele007/SwiftOCR)|[Nicolas Camenisch](https://github.com/garnele007/)|识别字母和数字相较于 Tesseract 有压倒性优势 OCR
-	[PHImageKit](https://github.com/producthunt/PHImageKit)|[Product Hunt](https://github.com/producthunt)|带下载及缓存的 GIF 播放组件库
+[PHImageKit](https://github.com/producthunt/PHImageKit)|[Product Hunt](https://github.com/producthunt)|带下载及缓存的 GIF 播放组件库
 
 ### <a id="framework"></a>框架
 
