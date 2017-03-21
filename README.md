@@ -15,8 +15,8 @@
 ### <a id="tools"></a>工具	
 > 备注栏 🔗 或 📝 链接详细介绍或最佳实践。其中 🔗 － 指外链接，📝 － 指 Wiki 可编辑	
 
-	项目 | 开发者 | 备注
-	------------------ | ------------------ | ------------------
+	|	项目 | 开发者 | 备注|
+	| ------------- |-------------| -----------|
 [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)|[tangplin](https://github.com/tangplin), [lingoer](https://github.com/lingoer)|GitHub 上最为开发者认可的 JSON 解析库 [🔗](http://tangplin.github.io/swiftyjson/)
 [JASON](https://github.com/delba/JASON)|[Damien](https://github.com/delba/)|高速 JSON 解析类库
 [Argo](https://github.com/thoughtbot/Argo)|[thoughtbot](https://github.com/thoughtbot)|函数式 JSON 解析库 [🔗](https://robots.thoughtbot.com/introducing-argo-10-more-power-more-fun)
@@ -110,8 +110,8 @@
 
 ### <a id="storage"></a>存储
 
-	项目 | 开发者 | 备注
------------- | ------------- | -------------
+	|	项目 | 开发者 | 备注|
+	| ------------- |-------------| -----------|
 [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData)|[Alecrim](https://github.com/Alecrim)|更容易地访问 CoreData 对象封装类库
 [SQLite.swift](https://github.com/stephencelis/SQLite.swift)|[Stephen Celis](http://stephencelis.com)|简单、轻量，使用上最 SQL 的 SQLite 封装库
 [Realm](https://github.com/realm/realm-cocoa)|[Realm](http://realm.io)|志向代替 Core Data 和 SQLite 的移动数据库
@@ -254,8 +254,8 @@
 
 ### <a id="interfaces"></a>界面
 
-	项目 | 开发者 | 备注
------------- | ------------- | -------------
+	|	项目 | 开发者 | 备注|
+	| ------------- |-------------| -----------|
 [Spring](https://github.com/MengTo/Spring)|[Meng To](https://github.com/MengTo)| 提供动画调试功能的强大动画的 API 库
 [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation)|[ReactiveCocoa](https://github.com/ReactiveCocoa/)|知名ReactiveAnimation 的 Swift 版子项目
 [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit)|[Draveness](https://github.com/Draveness)|高可读、链式代码风格动画框架库。
@@ -401,8 +401,8 @@
 
 ### <a id="demo"></a>示例
 
-	项目 | 开发者 | 备注
------------- | ------------- | -------------
+	|	项目 | 开发者 | 备注|
+	| ------------- |-------------| -----------|
 [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)|[Lex Tang](http://weibo.com/lexrus)|特赞的文字飘入飘出效果
 [TextKitAndAnimationEffect](https://github.com/morpheus1984/TextKitAndAnimationEffect)|[@我在罪恶坑的日子](http://weibo.com/u/1660258615)|文字下坠动画变化效果实现及示例（[开发过程详解](http://www.ismash.cn/post/ru-he-shi-xian-zi-ji-mei-shi-xian-guo-de-xu-qiu-zhi-wen-ben-dong-hua-pian)）
 [AEXML](https://github.com/tadija/AEXML)|[Marko Tadić](https://github.com/tadija)|简单又易于的 XML 解析类及示例
@@ -446,8 +446,8 @@
 
 ### <a id="projects"></a>应用
 
-	项目 | 开发者 | 备注
------------- | ------------- | -------------
+	|	项目 | 开发者 | 备注|
+	| ------------- |-------------| -----------|
 [edhita](https://github.com/tnantoka/edhita)|[Tatsuya Tobioka](http://blog.tnantoka.com/)|支持 Markdown, HTML 预览的文本编辑器
 [Markoff](https://github.com/thoughtbot/Markoff)|[thoughtbot](https://github.com/thoughtbot)|运行于 OS X 基于 cmark 轻量级 Markdown 预览 [🔗](https://robots.thoughtbot.com/markoff-free-markdown-previewer)
 [WWDC](https://github.com/insidegui/WWDC)|[Guilherme Rambo](https://github.com/insidegui)| WWDC 2015 [应用下载](https://github.com/insidegui/WWDC/blob/master/Releases/WWDC_latest.zip?raw=true)
