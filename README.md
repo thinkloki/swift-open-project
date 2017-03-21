@@ -16,7 +16,7 @@
 > 备注栏 🔗 或 📝 链接详细介绍或最佳实践。其中 🔗 － 指外链接，📝 － 指 Wiki 可编辑	
 
 	项目 | 开发者 | 备注
------------- | ------------- | ------------- 
+	------------------ | ------------------ | ------------------
 [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)|[tangplin](https://github.com/tangplin), [lingoer](https://github.com/lingoer)|GitHub 上最为开发者认可的 JSON 解析库 [🔗](http://tangplin.github.io/swiftyjson/)
 [JASON](https://github.com/delba/JASON)|[Damien](https://github.com/delba/)|高速 JSON 解析类库
 [Argo](https://github.com/thoughtbot/Argo)|[thoughtbot](https://github.com/thoughtbot)|函数式 JSON 解析库 [🔗](https://robots.thoughtbot.com/introducing-argo-10-more-power-more-fun)
@@ -173,7 +173,7 @@
 [sweetcorn](https://github.com/FlexMonkey/sweetcorn)|[simon gladman](https://github.com/FlexMonkey)|UI 配置生成图像滤镜代码
 [SwiftSVG](https://github.com/mchoe/SwiftSVG)|[Michael Choe](https://github.com/mchoe)|支持多种接口绘制 SVG 类库
 [SwiftOCR](https://github.com/garnele007/SwiftOCR)|[Nicolas Camenisch](https://github.com/garnele007/)|识别字母和数字相较于 Tesseract 有压倒性优势 OCR
-[PHImageKit](https://github.com/producthunt/PHImageKit)|[Product Hunt](https://github.com/producthunt)|带下载及缓存的 GIF 播放组件库
+	[PHImageKit](https://github.com/producthunt/PHImageKit)|[Product Hunt](https://github.com/producthunt)|带下载及缓存的 GIF 播放组件库
 
 ### <a id="framework"></a>框架
 
