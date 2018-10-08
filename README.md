@@ -492,3 +492,8 @@
 [PodcastMenu](https://github.com/insidegui/PodcastMenu)|[Guilherme Rambo](https://github.com/insidegui)|便捷地收听广播 Overcast.fm
 
 
+
+![Open Sources for Swift - Classification 2](http://source.wait.im/2018-10-08-Open Sources for Swift - Classification 2.png)
+
+
+
