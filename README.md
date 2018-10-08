@@ -1,5 +1,5 @@
 # swift-open-project
-这里汇集了目前为止最为流行的Swift开源项目，选取SwiftGuide中的开源部分。感谢[SwiftGuide](https://github.com/ipader/SwiftGuide)。大家fork的时候给个Star哈。
+这里汇集了目前为止最为流行的Swift开源项目，往后拉图片中有更加详细的分类，方便大家查阅。选取SwiftGuide中的开源部分。感谢[SwiftGuide](https://github.com/ipader/SwiftGuide)。大家fork的时候给个Star哈.
 ## 目录
 * [工具](#tools)
 * [存储](#storage)
