@@ -493,7 +493,7 @@
 
 
 
-![Open Sources for Swift - Classification 2](http://source.wait.im/2018-10-08-Open Sources for Swift - Classification 2.png)
+![Open Sources for Swift - Classification 2](https://raw.githubusercontent.com/thinkloki/swift-open-project/master/Open%20Sources%20for%20Swift%20-%20Classification%202.png)
 
 
 
